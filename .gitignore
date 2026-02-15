@@ -1,0 +1,8 @@
+.env
+.venv
+setup.sh
+start.sh
+__pycache__/
+*.pyc
+debug_page_source.html.env
+.DS_Store
